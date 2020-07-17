@@ -18,3 +18,41 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+.catagories h1{
+    color: #fff;
+}
+.catagories img{
+    width: 100px;
+}
+.cat1,.cat2,.cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat1{
+    background-color: orange;
+}
+.cat2{
+    background-color: orchid;
+}
+.cat3{
+    background-color: lightseagreen;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+    background-color: lightgray;
+    
+}
+.sub{
+    height: 300px;
+}
+.sub h6{
+    color: gray;
+}
+footer{
+    text-align: center;
+    font-size: 10px;
+}
